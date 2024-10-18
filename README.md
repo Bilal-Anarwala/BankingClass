@@ -102,20 +102,3 @@ The project is currently in a developmental stage with basic structure implement
 4. Enhancing error handling and input validation.
 5. Adding persistence (file or database storage).
 6. Implementing more robust security measures.
-
-## How to Run the Project
-
-To run the ATM simulation:
-
-1. Ensure you have Java Development Kit (JDK) installed on your system.
-2. Compile all Java files in the `atmint` package.
-3. Run the `ATM` class, which contains the `main` method.
-
-```bash
-javac atmint/*.java
-java atmint.ATM
-```
-
----
-
-**Note**: This project is for educational purposes only and is not intended for use in actual financial systems.
