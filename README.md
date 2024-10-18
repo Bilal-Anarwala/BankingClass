@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project was done to practice Object Oriented Programming in Java. 
+This follow-along project was done to practice Object Oriented Programming in Java. 
 
 ## Project Structure
 
